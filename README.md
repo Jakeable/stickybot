@@ -1,0 +1,2 @@
+# stickybot
+stickybot for reddit 
